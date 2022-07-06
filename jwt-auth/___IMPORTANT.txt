@@ -1,0 +1,33 @@
+
+1. check the folder_structure.png image for maintain the folder hierarchy
+
+
+2.then run command (npm install) for installing all package dependencies in node js
+
+
+
+
+
+** LOGIN FOR MONGODB ATLAS **
+
+email:theunknownexpress@gmail.com
+pass:Random12#
+
+
+** LOGIN FOR DATABASE ACCESS **
+
+mongodb database user:   themongodb
+mongodb database pass:   passwordd
+
+
+** MONGODB URL**
+
+url:mongodb+srv://themongodb:passwordd@cluster0.8pmp0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority
+
+
+
+** TEST ACCOUNT **
+
+USERNAME : random
+PASSWORD : random112
+GMAIL    : random@gmail.com
